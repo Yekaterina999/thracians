@@ -63,11 +63,11 @@
 			"Count": 2
 		},
 		{
-			"Template": "units/thra/infantry_javelinist_b",
+			"Template": "units/thra/infantry_javelineer_b",
 			"Count": 2
 		},
 		{
-			"Template": "units/thra/cavalry_javelinist_b"
+			"Template": "units/thra/cavalry_javelineer_b"
 		}
 	],
 	"Formations": [
@@ -93,9 +93,9 @@
 	],
 	"SkirmishReplacements": {
 		"skirmish/structures/default_house_5": "structures/thra/house",
-		"skirmish/units/default_cavalry": "units/thra/cavalry_javelinist_b",
+		"skirmish/units/default_cavalry": "units/thra/cavalry_javelineer_b",
 		"skirmish/units/default_infantry_melee_b": "units/thra/infantry_spearman_b",
-		"skirmish/units/default_infantry_ranged_b": "units/thra/infantry_javelinist_b"
+		"skirmish/units/default_infantry_ranged_b": "units/thra/infantry_javelineer_b"
 	},
 	"SelectableInGameSetup": true
 }
